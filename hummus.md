@@ -5,4 +5,4 @@
 * olive oil
 * salt
 * garlic
-* parsley
+* pepper
