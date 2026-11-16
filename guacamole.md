@@ -4,4 +4,7 @@
 * lime
 * salt
 ## Instructions
-Peel the avocado's and slice ffs
+
+* Peel the avocados and slice ffs
+
+* put one avocado into a bowl.
